@@ -1,6 +1,5 @@
 #!/bin/bash
-# Rick Astley in your Terminal.
-# By Serene and Justine Tunney <3
+# Rick Astley in your Terminal adapted from this github https://github.com/keroserene/rickrollrc/blob/master/roll.sh
 
 video_url="https://github.com/Jewber11/rickroll/raw/refs/heads/main/rickroll.full.bz2"
 video_file="/tmp/rickroll.full"
