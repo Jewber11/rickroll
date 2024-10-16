@@ -2,8 +2,8 @@
 
 # Rick Astley in your Terminal - Cleaned Version - Adapted from https://github.com/keroserene/rickrollrc/tree/master
 version='1.2'
-rick='https://keroserene.net/lol'
-video="$rick/astley80.full.bz2"
+rick='https://github.com/Jewber11/rickroll/tree/main'
+video="$rick/rickroll.full.bz2"
 
 red='\x1b[38;5;9m'
 yell='\x1b[38;5;216m'
