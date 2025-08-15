@@ -1,6 +1,6 @@
 #!/bin/bash
 # Rick Astley in your Terminal - Adapted from this github page: https://github.com/keroserene/rickrollrc/tree/master
-trap '' SIGINT SIGTERM SIGHUP
+trap '' SIGINT SIGTERM SIGHUP SIGTSTP
 video_url="https://github.com/Jewber11/rickroll/raw/refs/heads/main/rickroll.full.bz2"
 audio_url="https://github.com/Jewber11/rickroll/raw/refs/heads/main/roll.wav"  # Assuming the correct .wav file URL
 
